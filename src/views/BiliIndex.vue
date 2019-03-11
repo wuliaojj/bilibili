@@ -286,7 +286,6 @@
             <div class="g-navgifimg">
                 <img src="../assets/images/cont/nav_img.gif" alt="">
             </div>
-            
         </div>
         <div class="f-clear"></div>
         <!-- 主内容 -->
