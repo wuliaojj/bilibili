@@ -208,6 +208,7 @@ export default {
                 }
             }
             .lists{
+                
                 ul{
                     li{
                         box-sizing: border-box;
@@ -220,6 +221,7 @@ export default {
                             height: 100%;
                             overflow: hidden;
                             line-height: 28px;
+                            color: black;
                         }
                         .listsimg{
                             position: absolute;
